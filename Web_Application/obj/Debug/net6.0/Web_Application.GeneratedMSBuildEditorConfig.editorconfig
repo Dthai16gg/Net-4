@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_Application
 build_property.RootNamespace = Web_Application
-build_property.ProjectDir = c:\Users\buith\OneDrive\Máy tính\Net-4\Web_Application\
+build_property.ProjectDir = C:\Users\buith\OneDrive\Máy tính\Net-4\Web_Application\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\buith\OneDrive\Máy tính\Net-4\Web_Application
+build_property.MSBuildProjectDirectory = C:\Users\buith\OneDrive\Máy tính\Net-4\Web_Application
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Create.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Delete.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Details.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/ShowList.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/ShowList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxTaG93TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Update.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Bill/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbFxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Home/Index.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Home/TransferData.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Home/TransferData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFuc2ZlckRhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/Categories.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/Categories.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ2F0ZWdvcmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/CategoriesDetails.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/CategoriesDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ2F0ZWdvcmllc0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/CreateNewProduct.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/CreateNewProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlTmV3UHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/DetailsProduct.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/DetailsProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlsc1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/EditProduct.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/EditProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdFByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/ShowListProduct.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Products/ShowListProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2hvd0xpc3RQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/Error.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/Create.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/Login.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/MyAccount.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/MyAccount.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxNeUFjY291bnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/ShowListUser.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/User/ShowListUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTaG93TGlzdFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/_ViewImports.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/_ViewStart.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/_Layout.cshtml]
+[C:/Users/buith/OneDrive/Máy tính/Net-4/Web_Application/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-d50r737vpe

@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "DshQKNbBfIDzZqNVQtrebs4gko7W0Iq0c1eSIHwEO/xC2C7KcWj138GSdJlZlcNqgNp6FGcxrXo9NbHyd00+Kw==",
-=======
   "dgSpecHash": "3YjNx1MyAip+ZanwBGydpQrx2P416L1lzHB2KFOnBwRR8BZF/IQYJHFo0DZ8uRi8qfJG3+Sxs/UEFle18NUe7Q==",
->>>>>>> 0ef643bbf5beb1413b823e06beed46819b706e7b
   "success": true,
   "projectFilePath": "C:\\Users\\buith\\OneDrive\\Máy tính\\Net-4\\Web_Application\\Web_Application.csproj",
   "expectedPackageFiles": [
@@ -180,7 +176,18 @@
     "C:\\Users\\buith\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\buith\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\buith\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\buith\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\buith\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\buith\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\buith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\buith\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\buith\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\buith\\OneDrive\\Máy tính\\Net-4\\Web_Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
